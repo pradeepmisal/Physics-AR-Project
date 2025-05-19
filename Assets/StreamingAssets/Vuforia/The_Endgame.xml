@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="TAbleBox" size="5.000000 3.627049" />
+    <ImageTarget name="fresnel" size="5.000000 4.172474" />
+    <ImageTarget name="frsenseldiffractio" size="5.000000 2.134552" />
+    <ImageTarget name="Hwave" size="5.000000 2.725989" />
+    <ImageTarget name="hydralliclift" size="5.000000 7.261484" />
+    <ImageTarget name="Astronut1" size="5.000000 3.641304" />
+    <ImageTarget name="SunMoon" size="5.000000 4.820937" />
+    <ImageTarget name="youngsDoubleSlit" size="5.000000 2.417583" />
+    <ImageTarget name="polarisation" size="5.000000 2.361309" />
+    <ImageTarget name="soapBubble" size="5.000000 4.971672" />
+    <ImageTarget name="pistonpaskelslaw" size="5.000000 7.894737" />
+    <ImageTarget name="newbreack1" size="5.000000 3.301370" />
+    <ImageTarget name="canonProjectile" size="5.000000 3.309572" />
+    <ImageTarget name="bublle" size="5.000000 3.913043" />
+    <ImageTarget name="boxandobject" size="5.000000 3.840782" />
+    <ImageTarget name="vehicleonbankedroad" size="5.000000 3.600000" />
+    <ImageTarget name="wellofdeath" size="5.000000 3.333333" />
+    <ImageTarget name="PEboxandobject" size="5.000000 3.840782" />
+    <ImageTarget name="bublleSurfacetention" size="5.000000 3.913043" />
+    <ImageTarget name="atom" size="5.000000 3.330000" />
+    <ImageTarget name="newtoncraddle1" size="5.000000 4.883721" />
+    <ImageTarget name="meerygo1" size="5.000000 3.335000" />
+    <ImageTarget name="gaintwheel" size="5.000000 2.826667" />
+    <ImageTarget name="waterMelon" size="10.000000 7.688442" />
+    <ImageTarget name="goldFoil" size="10.000000 6.811092" />
+  </Tracking>
+</QCARConfig>

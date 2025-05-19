@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="table" size="5.000000 5.000000" />
+    <ImageTarget name="box" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>

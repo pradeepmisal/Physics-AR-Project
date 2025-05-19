@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/FPage.unity
+    guid: 7c5601c39fd3947efb57c233563a9844
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/SPage.unity
+    guid: 919d3f599286c449189fb9294889596f
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_1.unity
+    guid: 3b5993cfb638c485da8942090b38389e
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_2.unity
+    guid: c58c53f9acb01406f951b16cfdb5100f
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_3.unity
+    guid: a6f46f01680984f618fee7e7425e5ff3
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_4.unity
+    guid: e44502904dc354cb88dbf567bda5158a
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_5.unity
+    guid: 37e61450a92e142758b31cf738c6dd20
+  - enabled: 1
+    path: Assets/PHYSICS BOOK/Scene/Chapter_6.unity
+    guid: dd32c06908c1f4a2db979d471f9753e4
+  m_configObjects: {}
