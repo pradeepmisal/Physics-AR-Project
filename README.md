@@ -2,6 +2,10 @@
 
 Welcome to **Exploring Wonders of Physics with AVINYA** — an immersive Augmented Reality (AR) based educational platform that brings abstract physics concepts to life through interactive 3D models and storytelling.
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/1TIVgz43KaU/hqdefault.jpg)](https://youtu.be/1TIVgz43KaU)
+
 ---
 
 ##  Project Overview
@@ -28,9 +32,6 @@ AVINYA is designed to help students, especially from grades 11 and 12 (Maharasht
 - Android SDK
 
 ---
-## 🎥 Demo Video
-
-[![Watch the video](https://img.youtube.com/vi/1TIVgz43KaU/hqdefault.jpg)](https://youtu.be/1TIVgz43KaU)
 
 ##  Download the Application
 
