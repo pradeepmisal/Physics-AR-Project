@@ -1,6 +1,12 @@
 #  Exploring Wonders of Physics with AVINYA
 
 Welcome to **Exploring Wonders of Physics with AVINYA** — an immersive Augmented Reality (AR) based educational platform that brings abstract physics concepts to life through interactive 3D models and storytelling.
+<p align="center">
+  <a href="https://postimg.cc/fkgNRTQV" target="_blank">
+    <img src="https://i.postimg.cc/SNmNVJZf/AR-book.jpg" alt="AR-book" width="600"/>
+  </a>
+</p>
+
 
 ## 🎥 Demo Video
 
