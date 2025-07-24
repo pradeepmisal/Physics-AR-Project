@@ -39,6 +39,7 @@ You can download the latest version of the app here:
 
 📎 **[Download APK from Google Drive](https://drive.google.com/drive/folders/1JuDKUdyR_CEWRhjydAa3wyDV9I8LQWyu?usp=sharing)**
 
+
 > ⚠️ Note: Make sure to enable **"Install from unknown sources"** on your Android device to install the APK.
 
 ---
@@ -82,8 +83,8 @@ Feel free to open issues or pull requests for suggestions or improvements!
 
 For queries, partnerships, or suggestions:
 
-**Sandesh Khilari**  
-📧 Email: sndsh.khilari@gmail.com  
+**Pradeep Misal**  
+📧 Email: pradeepmisal698@gmail.com
 
 ---
 
